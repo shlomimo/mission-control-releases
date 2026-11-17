@@ -1,5 +1,5 @@
 {
   "min_supported_version": "3.0.14",
-  "message": "Fixes a download bug",
-  "updated_at": "2026-11-17T01:54:07Z"
+  "message": "This version is no longer supported. Please update to 3.0.14 or newer.",
+  "updated_at": "2026-11-17T02:17:17Z"
 }
