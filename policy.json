@@ -1,5 +1,5 @@
 {
-  "min_supported_version": "4.0.0",
-  "message": "Mission Control 4.0 is here: a new look with show posters, a live downloads panel and real glass. Update to keep using the app.",
-  "updated_at": "2026-11-22T22:12:40Z"
+  "min_supported_version": "4.0.1",
+  "message": "This update fixes clicking a show on the TV Shows screen. Update to keep using the app.",
+  "updated_at": "2026-11-22T22:18:16Z"
 }
